@@ -1,5 +1,3 @@
-
-```markdown
 # Todo Application
 
 This is a simple React Native application that manages a todo list using Redux. Users can add, mark as completed, delete, and search for tasks.
@@ -40,4 +38,7 @@ npm start
 - **Redux**: A JavaScript library used for state management.
 - **React Navigation**: A library used for navigation features in mobile applications.
 
-```
+## Project Screenshot
+<img width="396" alt="Ekran Resmi 2024-03-24 13 51 53" src="https://github.com/CerenErsoz/TodoApp/assets/91419857/26ed550d-52bb-4c9e-9610-aa4926440069">
+
+<img width="396" alt="Ekran Resmi 2024-03-24 13 52 16" src="https://github.com/CerenErsoz/TodoApp/assets/91419857/2a6dcb38-703f-459c-b86a-9a0bc64c3247">
